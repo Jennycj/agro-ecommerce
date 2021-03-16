@@ -9,7 +9,6 @@ yarn-error.log*
 coverage
 
 # Compiled and or generated files
-dist
 build
 output
 *.xlsx
